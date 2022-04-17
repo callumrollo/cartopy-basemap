@@ -2,12 +2,9 @@ name: cartopy-basemap
 channels:
    - conda-forge
 dependencies:
-   - python=3.7
-   - ipython
    - jupyter
    - numpy
    - matplotlib
-   - pandas
    - cartopy
    - xarray
    - netcdf4
